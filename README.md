@@ -29,9 +29,9 @@ After completing this assignment, you be able to effectively use
 ### Deliverables
 
 * A repo containing at least:
-  * `dist/index.html`
-  * `dist/scripts/main.js`
-  * `dist/bower.json`
+  * `index.html`
+  * `scripts/main.js`
+  * `package.json`
 
 ### Requirements
 
